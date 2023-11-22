@@ -33,6 +33,8 @@ Feel free to reach out to me for collaborations or discussions on tech and resea
 ![jithsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithsg&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithsg&layout=compact)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jithsg)](https://github.com/ryo-ma/github-profile-trophy)
+![Metrics](https://metrics.lecoq.io/jithsg?template=classic&base.header=0&config.timezone=Asia%2FCalcutta)
+
 
 
 Looking forward to collaborating and sharing ideas with the GitHub community!
