@@ -30,6 +30,9 @@ Feel free to reach out to me for collaborations or discussions on tech and resea
 - [LinkedIn Profile](https://www.linkedin.com/in/jithishj/)
 - [Google Scholar](https://scholar.google.com/citations?user=_rsVgDQAAAAJ&hl=en)
 
+![jithsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithsg&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithsg&layout=compact)
+
 Looking forward to collaborating and sharing ideas with the GitHub community!
 
 ---
