@@ -1,3 +1,5 @@
+![snake animation](https://github.com/jithsg/jithsg/blob/output/github-contribution-grid-snake2.svg)
+
 ### Hi there 👋
 # I'm Jithish, Ph.D., Member, IEEE
 
