@@ -1,6 +1,3 @@
-![Snake animation]
-(https://github.com/jithsg/jithsg/blob/output/github-contribution-grid-snake.svg)
-
 
 
 ### Hi there 👋
