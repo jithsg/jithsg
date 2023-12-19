@@ -36,7 +36,7 @@ Feel free to reach out to me for collaborations or discussions on tech and resea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithsg&layout=compact)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jithsg)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jithsg)
-[![Jithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jithsg&theme=dracula)](https://github.com/jithsg/github-readme-activity-graph)
+[![Jithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jithsg&theme=github)](https://github.com/jithsg/github-readme-activity-graph)
 
 
 
