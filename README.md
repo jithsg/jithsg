@@ -3,7 +3,7 @@
 ### Hi there 👋
 # I'm Jithish, Ph.D., Member, IEEE
 
-Welcome to my GitHub profile! I'm Jithish, an enthusiastic researcher and engineer passionate about the intersection of technology and innovation. Currently, I'm exploring new frontiers in technology as a Research Fellow at the Singapore University of Technology and Design (SUTD).
+Welcome to my GitHub profile! I'm Jithish, an enthusiastic researcher and ML engineer passionate about the intersection of technology and innovation. Currently, I'm exploring new frontiers in technology as a Research Fellow at the Singapore University of Technology and Design (SUTD).
 
 ## Education 🎓
 - **Ph.D. in Computer Science and Engineering** - Amrita Vishwa Vidyapeetham, India, 2021.
