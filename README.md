@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-# I'm Jithish, Ph.D., Member, IEEE
+# I'm Jithish
 
 Welcome to my GitHub profile! 
 
